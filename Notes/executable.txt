@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile projet_reg_log.py
