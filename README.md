@@ -46,7 +46,7 @@ Le notebook contient les étapes de préparation des données, la modélisation 
 
 ### Préparation des données :
 Assurez-vous que les données des collèges sont présentes dans le répertoire data/.
-Exécutez le notebook notebooks/college_hypothesis_tests.ipynb pour réaliser les tests d'hypothèses.
+Exécutez le notebook notebooks/Projet_Stat_College.ipynb pour réaliser les tests d'hypothèses.
 ### Analyse et résultats :
 Le notebook détaille les tests effectués, les hypothèses posées, et les conclusions tirées des analyses.
 
