@@ -51,8 +51,8 @@ Exécutez le notebook notebooks/Projet_Stat_College.ipynb pour réaliser les tes
 Le notebook détaille les tests effectués, les hypothèses posées, et les conclusions tirées des analyses.
 
 ## Contributeurs
-Joris Salmon - Data Scientist / Strategy
-Nolwenn Chapellon - Data Scientist
+Joris Salmon - Data Scientist / Strategy | 
+Nolwenn Chapellon - Data Scientist | 
 Zakaria Camara - Data Analyst
 
 Ce projet est soumis à l'accord de ses créateurs pour sa réutilisation
