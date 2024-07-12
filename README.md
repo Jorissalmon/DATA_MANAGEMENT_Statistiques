@@ -27,7 +27,7 @@ Pour exécuter ce projet, vous aurez besoin d'installer les dépendances nécess
 ### Créez et activez un environnement virtuel :
 python -m venv env
 source env/bin/activate  # Sur macOS/Linux
-env\Scripts\activate  # Sur Windows
+ | env\Scripts\activate  # Sur Windows
 
 ### Installez les dépendances :
 pip install -r requirements.txt
