@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 #### Préparation des données :
 Assurez-vous que les données de l'INSEE sont présentes dans le répertoire data/.
-Exécutez le notebook notebooks/insee_logistic_regression.ipynb pour réaliser l'analyse.
+Exécutez le notebook notebooks/Regression_Logistique_INSEE_Finale_v4.ipynb pour réaliser l'analyse.
 
 #### Analyse et résultats :
 Le notebook contient les étapes de préparation des données, la modélisation avec la régression logistique, et l'interprétation des résultats.
